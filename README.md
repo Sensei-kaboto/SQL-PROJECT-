@@ -1,4 +1,4 @@
-SQL Data Analysis Project – Chinook Database
+SQL Data Analysis Project – Chinook Database (https://roadmap.sh/projects/querying-sql-python)
 📌 Project Overview
 
 This project analyzes the Chinook music store database using SQL.
